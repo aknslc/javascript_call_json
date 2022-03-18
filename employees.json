@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Ervin",
+        "lastName": "Howell",
+        "age": 23,
+        "retired": false
+    },
+    {
+        "firstName": "Leanne",
+        "lastName": "Graham",
+        "age": 27,
+        "retired": false
+    },
+    {
+        "firstName": "Victor",
+        "lastName": "Plains",
+        "age": 29,
+        "retired": false
+    },
+    {
+        "firstName": "Plains",
+        "lastName": "Erwoll",
+        "age": 51,
+        "retired": false
+    },
+    {
+        "firstName": "Lip",
+        "lastName": "Gallagher",
+        "age": 59,
+        "retired": false
+    }
+]
